@@ -10,6 +10,7 @@
 </div>
 
 ⌛ Aplicativo para diagnóstico de estrabismo em desenvolvimento
+
 📫 Contato: thalissonjon@gmail.com
 
 
