@@ -9,4 +9,6 @@
   <a href="https://www.linkedin.com/in/thalisson-jon-8aa06a236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+# Atualmente estou desenvolvendo um aplicativo para diagnóstico automático de estrabismo utilizando Cover Test. Assim que o aplicativo estiver registrado, o repositório ficará público para possíveis contribuições!
+
 📫 Contato: thalissonjon@gmail.com
