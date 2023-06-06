@@ -1,7 +1,7 @@
 ### Olá 👋
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalissonjon&layout=compact&langs_count=7&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissonjon&layout=compact&langs_count=7&theme=merko" alt="Top Langs">
 </div>
 
 <div align="center">
