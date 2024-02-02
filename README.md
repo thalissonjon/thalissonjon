@@ -9,7 +9,8 @@
   <a href="https://www.linkedin.com/in/thalisson-jon-8aa06a236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
-⌛ Aplicativo para diagnóstico de estrabismo em desenvolvimento
+⌛ Nenhum projeto pessoal em andamento no momento.
+✅ Aplicativo EyeCheck de detecção de estrabismo finalizado.
 
 📫 Contato: thalissonjon@gmail.com
 
