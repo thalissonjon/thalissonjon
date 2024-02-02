@@ -10,6 +10,7 @@
 </div>
 <br>
 ⌛ Nenhum projeto pessoal em andamento no momento.
+
 ✅ Aplicativo EyeCheck de detecção de estrabismo finalizado.
 
 📫 Contato: thalissonjon@gmail.com
