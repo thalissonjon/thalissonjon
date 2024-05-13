@@ -10,9 +10,9 @@
 <br>
 ⌛ No personal projects at the moment.
 
-✅ Eyecheck: App for strabismus detection completed!.
+✅ Eyecheck: App for strabismus detection completed!
 
-📫 Contato: thalissonjon@gmail.com
+📫 Reach me: thalissonjon@gmail.com
 
 
 
