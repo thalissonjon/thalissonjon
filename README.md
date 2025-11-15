@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/thalisson-jon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
-⌛ No personal projects at the moment.
 
-✅ Eyecheck: App for strabismus detection completed!
+⌛ No personal projects at the moment.
+🤖 Machine Learning enjoyer
 
 📫 Reach me: thalissonjon@gmail.com
 
