@@ -10,6 +10,7 @@
 <br>
 
 ⌛ No personal projects at the moment.
+
 🤖 Machine Learning enjoyer
 
 📫 Reach me: thalissonjon@gmail.com
